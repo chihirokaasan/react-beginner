@@ -1,0 +1,22 @@
+{
+  "name": "react-beginner",
+  "version": "0.0.0",
+  "description": "package for react beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chihirokaasan/react-beginner.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "ITKAASAN.LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihirokaasan/react-beginner/issues"
+  },
+  "homepage": "https://github.com/chihirokaasan/react-beginner#readme"
+}
