@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/chihirokaasan/react-beginner/issues"
   },
-  "homepage": "https://github.com/chihirokaasan/react-beginner#readme"
+  "homepage": "https://github.com/chihirokaasan/react-beginner#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
