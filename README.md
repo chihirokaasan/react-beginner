@@ -1,2 +1,2 @@
-# react-beginner
-Reactのお勉強用
+# JavaScriptFor-beginner
+ReactやVue.jsのお勉強用
